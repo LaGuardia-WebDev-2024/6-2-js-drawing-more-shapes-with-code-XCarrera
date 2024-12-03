@@ -11,17 +11,18 @@ void draw(){
   strokeWeight(3);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
+  rect(5,345,390,500)
   ellipse(200, 300, 150, 150);
   ellipse(200, 200, 100, 100);
   ellipse(200, 120, 75, 75);
-  
-
-}
+  line(150,191,122,231)
+  line(250,191,277,231)
+  }
 
 //🟡Extra FUN Features Ms. Hall Added
 //Proceed with Caution (and Curiosity!)
 
-var fillR = 255;
+var fillR = 200;
 var fillG = 0;
 var fillB = 255;
 
